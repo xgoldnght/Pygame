@@ -123,6 +123,9 @@ while not game_over:
         clock.tick(40)
 ```
 ### Результат
-![Меню]()
-![Меню]()
-![Меню]()
+### Убийство всех монстров 
+![Меню](https://github.com/xgoldnght/Pygame/blob/main/pic/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
+### Шарик улетел в низ, под платформу
+![Меню](https://github.com/xgoldnght/Pygame/blob/main/pic/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9%201.png)
+### Начало игры
+![Меню](https://github.com/xgoldnght/Pygame/blob/main/pic/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9%202.png)
